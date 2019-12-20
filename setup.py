@@ -35,7 +35,7 @@ setup(
         'urllib3<1.25',
         'ruamel.yaml<1',
         'requests==2.21',
-        'python-dateutil<2.8.1',
+        'python-dateutil<3.0.0',
         'botocore',
     ],
     entry_points={
