@@ -38,3 +38,6 @@ websocket-client==0.57.0  # via kubernetes
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
+
+# vulnerability!
+rdflib==4.2.2
